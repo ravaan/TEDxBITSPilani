@@ -843,7 +843,7 @@ var speakers = [
     },
     {
         id:3,
-	name:"Abhas Mitra",
+	    name:"Abhas Mitra",
         designation:"Indian Astrophysicist Pioneering in Big Bang Theory and Black Holes",
         image:"img/speakers/am.jpg",
         description:"A pioneering Indian astrophysicist, the former head of Theoretical Physics Section at Bhabha Atomic Research Centre, Mumbai, and currently an (Hon) Adjunct Professor at Homi Bhabha National Institute, Mumbai.Known for his distinct views, Dr Mitra has regularly questioned the mainstream cosmological concepts such as the Big Bang, Dark Energy and Black Holes; his claims have been backed by several scientists across the globe. Scientists have come to favour his claims over resolution of the “black hole information paradox”, which was presented 13 years before Stephen Hawking. On July 25, 2006, Center for Astrophysics, Harvard, issued a Press Release mentioning his original idea.It is extremely rare in Indian Science in post-independent India, that a fundamental idea developed within India has been the topic of a press release by Harvard or any Ivy-league institute. One of the leading speakers on Theoretical Physics, Dr Mitra has also shared this honour with few Nobel Laureates; and in 2017, DST India invited him to the Nobel Laureate Symposium at the Vibrant Gujarat Festival. He is accredited with the setting up of Himalayan Gamma Ray Observatory and initiating research in Theoretical Astrophysics both in J&K and in BARC way back in the 1980s! He continues to empower aspiring astrophysicists all over India and has a book entitled \"The Rise & Fall of the Black Hole Paradigm\" coming out in 2018.",
@@ -856,38 +856,39 @@ var speakers = [
     },
 	{
         id:4,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"Nabila Jamshed",
+        designation:"Global Governance & Security | United Nations",
+        image:"img/speakers/nj.jpg",
+        description:"Born in India, Nabila is an international security and global governance professional currently working with the United Nations. She has previously served as a political analyst with multilateral agencies and the UN in The Hague, in India, and with the United Nations Peacekeeping Mission in South Sudan. She studied in Delhi, and did her Master’s in Global Governance and Diplomacy from the University of Oxford, England. Nabila’s career in the United Nations system began with the Organisation for the Prohibition of Chemical Weapons, where she worked as a Political Affairs Specialist. She joined the OPCW during the organisation’s work on chemical disarmament in Syria, for which it was later awarded the Nobel Peace Prize. With the UN, she co-authored the UN Environment Programme and UNU’s Inclusive Wealth Report for 2014. In her most recent assignment with UN Peacekeeping, Nabila was posted to Juba, South Sudan, where she worked with the Joint Mission Analysis Centre during the conflict of 2016, on security and crisis reporting and analysis. She has delivered TEDx and Hague Talks on the business of war, written columns for The Indian Express and other newspapers and specialises in the UN’s work on preventing conflicts, crisis response, and outlawing weapons of mass destruction.",
         links: {
-            website:"",
-            fb:"",
-            twitter:"",
-            linkedin:""
+            website:"https://en.wikipedia.org/wiki/Nabila_Jamshed",
+            fb:"https://www.facebook.com/nabylajumshayde",
+            twitter:"https://twitter.com/nabilajamshed",
+            linkedin:"https://www.linkedin.com/in/nabila-jamshed-22738b40"
         }
     },
     {
         id:5,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"Insia Dariwala",
+        designation:"Activist | Filmmaker",
+        image:"img/speakers/id.jpg",
+        description:"Insia Dariwala is an Advertising and Mass Communication graduate from F.I.T New York and today, an award-winning international filmmaker who effectively uses her 14 years of expertise as a writer, director and executive producer to highlight social evils like child sexual abuse (CSA)  in her hard-hitting films like 'The Candy Man' and 'Cock-Tale'.A social change maker, through her storytelling and visual arts, the founder of 'The Hands of Hope Foundation' and also the co-founder of an organisation called 'Sahiyo',Insia uses the medium of Art & Films to train the lens on social issues. While one organisation creates awareness in schools, communities & slums in India regarding CSA the latter empowers Asian communities to end female genital cutting (FGC). Actively involved with the WCD Ministry of India, in formulating effective Preventive Measures & Advocacy efforts on Child Sexual Abuse has won Insia prestigious awards like 'Women have Wings' courage award in the U.S.A, The We the Women 'H.E.R' award, in India. An avid writer, her work features on  www.unboxedwriters.com, 'TLF-lifestyle & Travel' and 'Books & More'.",
         links: {
             website:"",
             fb:"",
-            twitter:"",
-            linkedin:""
+            twitter:"https://twitter.com/insia_dariwala",
+            linkedin:"https://www.linkedin.com/in/insia-dariwala-28644231"
         }
     },
     {
         id:6,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        id:6,
+        name:"David Belo",
+        designation:"Artisanal Chocolatier",
+        image:"img/speakers/db.jpg",
+        description:"David began his career as a cocktail bartender, mixing drinks at some of London’s most prestigious cocktail bars, restaurants and clubs, including the London’s LAB bar as well as venues abroad before retraining as an artisan bread baker and pastry chef.  Having grown up in South Africa, David took to Indian climes like a fish to water & on a visit to India in 2013 with his partner,  found high-quality cocoa growing in Karnataka, which kickstarted his career as a chocolatier. David studied the alchemical healing arts, sacred geometry and music, and went on to bring those principles to his work with food when envisaging the Earth Loaf project. Currently, the co-founder, head Chef and General Manager at Earth Loaf -a dream of artisan project, with raw organic chocolate sourced face to face, unifying people with nature, and craftsmanship with creativity and nutrition. From ‘bean to bar’, as David is fond of saying, it’s a local Indian product — but it took a Londoner with Greek roots to make it and for David, it's simply his vision, translated through fine chocolate.",
         links: {
-            website:"",
+            website:"https://earthloaf.co.in/about-the-founders/",
             fb:"",
             twitter:"",
             linkedin:""
@@ -895,15 +896,15 @@ var speakers = [
     },
     {
         id:7,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"Varun Sheth",
+        designation:"CEO & Co-Founder Ketto",
+        image:"img/speakers/vs.jpg",
+        description:"A former chartered financial analyst, working with ICAP  (the world's leading market operator), Varun Sheth left his job, and in his \"Aha!\" moment, founded, 'Ketto' in 2011, a crowd-based fundraising platform along with the Bollywood actor Kunal Kapoor.Today, this social entrepreneur is a part of Forbes 30 under 30, 2017 list and his Mumbai-based company Ketto works with 3,500 non-profit firms and has raised over Rs 100 crore for various causes through 30,000 campaigns. Born and brought up in Mumbai, Varun did his schooling from Jamnabai Narsee School and college in Narsee Monjee. Over the years, he worked with many a number of charitable organisations like Save the Children, Akshara centre and Mijwan Welfare Society, and went on to create Ketto, a platform, that gives people a chance to connect to and support different charities, anytime and from anywhere. Known as a very dapper Founder and CEO amongst his employees, Varun has proved to be a finance and foregrounding genius, heading a company which has raised nearly $5 million in 2017.",
         links: {
-            website:"",
+            website:"https://www.ketto.org/about/about-us.php",
             fb:"",
-            twitter:"",
-            linkedin:""
+            twitter:"https://twitter.com/varantonio",
+            linkedin:"https://www.linkedin.com/in/varunsheth23/"
         }
     },
     {
@@ -947,6 +948,45 @@ var speakers = [
     },
     {
         id:11,
+        name:"To Be Announced",
+        designation:"TBA",
+        image:"img/speakers/tba.jpg",
+        description:"",
+        links: {
+            website:"",
+            fb:"",
+            twitter:"",
+            linkedin:""
+        }
+    },
+    {
+        id:12,
+        name:"To Be Announced",
+        designation:"TBA",
+        image:"img/speakers/tba.jpg",
+        description:"",
+        links: {
+            website:"",
+            fb:"",
+            twitter:"",
+            linkedin:""
+        }
+    },
+    {
+        id:13,
+        name:"To Be Announced",
+        designation:"TBA",
+        image:"img/speakers/tba.jpg",
+        description:"",
+        links: {
+            website:"",
+            fb:"",
+            twitter:"",
+            linkedin:""
+        }
+    },
+    {
+        id:14,
         name:"To Be Announced",
         designation:"TBA",
         image:"img/speakers/tba.jpg",
