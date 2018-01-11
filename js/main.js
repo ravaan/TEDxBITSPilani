@@ -909,53 +909,53 @@ var speakers = [
     },
     {
         id:8,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"J Gopikrishanan",
+        designation:"Award Wining Journalist",
+        image:"img/speakers/jg.jpg",
+        description:"An Indian journalist who unearthed the 2G Scam. He obtained Post Graduate Diploma in Journalism from Institute of Journalism, Press Club, Thiruvananthapuram in 1999, followed by working with several media organisations in Kerela. Apart from the Ramnath Goenka award for the Journalist of the Year – 2009 (awarded in January 2012), Gopikrishnan has also bagged several prestigious awards like CNN-IBN television channel’s ‘Indian of the Year’ in December 2010. He also presented a paper on ‘Telecom scandal of India” in coveted international journalists’ conference in Norway – SKUP in March 2012. He shifted to Delhi, to join \"The Pioneer\", an English newspaper, in 2008, where he went on to expose: the hidden list of companies floated by the relatives of then telecom minister A.Raja, midnight letters involving the 2G Scam exchanged between then Prime Minister Manmohan Singh and A.Raja, hidden minutes of the meetings between then Finance Minister P.Chidambaram and Telecom Minister A.Raja. Gopikrishnan's major reports on the 2G scam, rocked the ruling Congress-led UPA Government and ultimately led to it's pummeling in 2014 elections, making J.Gopalakrishnan one of the most successful Investigative Journalist, the country has ever seen. J.Gopalakrishnan continues to be an active member of Action Committee Against Corruption in India and has participated in several seminars in India and abroad, and made speeches mainly on media ethics and corporatisation of media. Based on his reports on the 2G scam, the Patiala House Court on 21st December 2017, acquitted all accused including A.Raja and DMK leader Kanimozhi.",
         links: {
-            website:"",
+            website:"http://jgopikrishnan.blogspot.in/",
             fb:"",
-            twitter:"",
-            linkedin:""
+            twitter:"https://twitter.com/jgopikrishnan70",
+            linkedin:"https://www.linkedin.com/in/gopikrishnan-j-077a6b22/"
         }
     },
     {
         id:9,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"Shraddha Shashidhar",
+        designation:"Miss India Universe 2017",
+        image:"img/speakers/ss.jpg",
+        description:"Shraddha hails from Chennai and is an Indian model, who was crowned Miss Diva 2017 and represented India at Miss Universe 2017, held in Las Vegas. Shraddha did her schooling at Army Public School and pursued a degree in Mass Media from Sophia College, Mumbai. She has been a sprinter, a national-level basketball player, a trained classical dancer. She has also taken up the noble cause of teaching Tibetan refugees at the Lha charitable trust and is one immensely talented woman.",
         links: {
-            website:"",
-            fb:"",
-            twitter:"",
-            linkedin:""
+            website:"https://en.wikipedia.org/wiki/Shraddha_Shashidhar",
+            fb:"https://www.facebook.com/shraddhashashidhar/",
+            twitter:"https://twitter.com/j_shraddha?lang=en",
+            linkedin:"https://www.linkedin.com/in/shraddha-shashidhar-8aa898a6/"
         }
     },
     {
         id:10,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"Aashna Shroff",
+        designation:"Lifestyle & Fashion Blogger",
+        image:"img/speakers/as.jpg",
+        description:"An Indian fashion, travel and lifestyle blogger and perhaps the one of the most known fashion vlogger and YouTuber in India, she studied Fashion Business at London College of Fashion.  Ever the entrepreneur, she also has an online store The Snob Shop that is an extension of her own approach to fashion. Winner of the People’s Choice Award for Best Urban Style 2017 also the nominee for Cosmopolitan India Blogger Awards 2018, and has a swarm of 400k+ followers on Instagram.",
         links: {
-            website:"",
-            fb:"",
-            twitter:"",
-            linkedin:""
+            website:"thesnobjournal.com/",
+            fb:"https://www.facebook.com/ash.shroff",
+            twitter:"https://twitter.com/aashnashroff?lang=en",
+            linkedin:"https://www.linkedin.com/in/aashna-shroff-87b980120/"
         }
     },
     {
         id:11,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"Sahej Rahal",
+        designation:"Artist | Sculptor",
+        image:"img/speakers/sr.jpg",
+        description:"Sahej Rahal, born and brought up in the sprawling Mumbai metropolis, Rahal graduated from Rachana Sansad Academy of Fine Arts, trained in painting but branched out into other mediums of artistic expression. In early 2017, Rahal worked on art installations spread out across Liverpool city, with objects made using scrap metal and wood that he found. Followed by, exhibitions in Glasgow, Scotland, which were featured in 'The Week's Top Exhibition' in the UK. Rahal's artworks are as much science fiction and fantasy as they are weird and wonderful. Art might be his first love, but storytelling is equally integral to this 28-year-old’s practice. Working with film, performances and installations, Rahal’s eclectic style has created waves both across the Indian art scene as well as internationally as he travels the world telling tales about everything from history and culture, to religion, science and fantasy. He has been a recipient of many prestigious international residencies and won the Forbes Award for Debut Solo Show, 2014. Rahal continues to challenge the notions of conventional art, which makes his voice continuously important one, both in and around the spaces that define today’s art world.",
         links: {
-            website:"",
+            website:"www.sahejrahal.com",
             fb:"",
-            twitter:"",
+            twitter:"https://twitter.com/sahejrahal",
             linkedin:""
         }
     },
