@@ -984,19 +984,6 @@ var speakers = [
             twitter:"",
             linkedin:""
         }
-    },
-    {
-        id:14,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
-        links: {
-            website:"",
-            fb:"",
-            twitter:"",
-            linkedin:""
-        }
     }
 //    {
 //        id:1,
