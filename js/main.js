@@ -961,26 +961,26 @@ var speakers = [
     },
     {
         id:12,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"Andrea Thumshirn",
+        designation:"German Hockey Player | Hockey Village India",
+        image:"img/speakers/at.jpg",
+        description:"Andrea Thumshirn, the name might not be a household name in Indian hockey, but her work to develop the sport at the grassroots level is unmatched. Also a German Premier League hockey player, Andrea came to India as a tour operator and in the next 2 years, moved permanently to India to living a very basic lifestyle, in rural and remote Rajasthan. Andrea had been playing the sport ever since she was six. When she had suffered an injury, she quit playing professional hockey. So, she started coaching kids in the sport in Germany. She brought the same passion and love of the game to India, as the founder and head of Hockey Village India and also started a primary English medium school to provide better education to the kids. Hockey Village India, first started in Garh Himmat Singh village, from where she was forced to flee because the villagers were made to believe that the German lady would use her school to convert the kids into Christianity and 'westernise' them, the rumour gave ammunition and she fell victim to the politics. Despite battling suspicion, tackling bureaucratic apathy and struggling for sponsors to continue with her passion to teach hockey to the kids, sticking to her guns, Andrea relocated to a nearby village and since then she has coached 7 kids from the NGO to play in junior German league and took 5 of her students to Germany to practise in professional playgrounds and meet other players. Five of Andrea’s girls were even selected for the state team in the Under-16 category.",
         links: {
-            website:"",
-            fb:"",
-            twitter:"",
-            linkedin:""
+            website:"https://www.hockeyvillageindia.com/",
+            fb:"https://www.facebook.com/andrea.thumshirn",
+            twitter:"https://twitter.com/hockeyvillagein",
+            linkedin:"https://www.linkedin.com/in/andrea-thumshirn-3976298b/"
         }
     },
     {
         id:13,
-        name:"To Be Announced",
-        designation:"TBA",
-        image:"img/speakers/tba.jpg",
-        description:"",
+        name:"Ujjwal Anand",
+        designation:"BITSian Speaker | ",
+        image:"img/speakers/ua.jpg",
+        description:"Student speaker for the 2018 edition of TEDxBITSPilani, Ujjwal Anand, a self taught fluteboxer who will be talking about how to push yourself and make things happen. He is a 3rd year undergraduate from BITS Pilani. He is currently the Team Leader of Electrical Power System, Team Anant. A technical team of students designing their own nano-satellite. He has also been the captain of BITS Athletics team.",
         links: {
             website:"",
-            fb:"",
+            fb:"https://www.facebook.com/UA.ULAWS",
             twitter:"",
             linkedin:""
         }
